@@ -6,6 +6,9 @@
     font-family: "Poppins", sans-serif;
 }
 body {
+    background-image: url('https://static.vecteezy.com/system/resources/previews/021/477/545/non_2x/artificial-intelligence-chat-bot-concept-free-vector.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
     background-color: #E3F2FD;
 }
 .chatbot-toggler {
